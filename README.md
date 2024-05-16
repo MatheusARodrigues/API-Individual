@@ -1,5 +1,3 @@
-# API-individual
-
 <h1 align="center"># API-individual</h1>
 <p>Voces foram convidados para desenvolver um sistema de biblioteca e precisam criar uma entidade livro contendo as informações, id, titulo
 
